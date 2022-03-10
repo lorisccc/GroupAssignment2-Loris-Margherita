@@ -1,9 +1,9 @@
 # Group assignment 2 - Pair programming
 
-**Student 1: Loris Coccia**
+**Student 1: Loris Coccia** - 
 **Student 1 ID: 2056314**
 
-**Student 2: Margherita Bonfiglio**
+**Student 2: Margherita Bonfiglio** - 
 **Student 2 ID: 2056309**
 
 This is the second group assignment for the course "Software Engineering"
